@@ -1,0 +1,432 @@
+
+/*
+=================================================
+				UP FROM 1200PX
+=================================================
+*/ 
+@media (min-width: 1367px) and (max-width: 1680px) {
+
+}
+/*
+=================================================
+				UP FROM 1200PX
+=================================================
+*/ 
+@media (min-width: 1200px) and (max-width: 1366px) {
+	.iq_knowledge_des{
+		padding-right: 100px;
+	}
+}
+/*
+=================================================
+			FROM 992PX TO 1199PX
+=================================================
+*/ 
+@media (min-width: 992px) and (max-width: 1199px) {
+	.iqoniq2-info ul li span,
+	.iqoniq2-info ul li a{
+		width: 74%;
+	}
+	.event_calender{
+		overflow: hidden;
+	}
+	.navigation ul li a{
+		padding-left: 20px;
+		padding-right:20px;
+	}
+	.iq_search_courses h4{
+		font-size: 30px;
+	}
+	.we_professional_bg .iq_heading_1 br{
+		display: none;
+	}
+	.iq_professional_services p{
+		max-height: 70px;
+		overflow: hidden;
+	}
+	.iq_knowledge_des{
+		padding-right: 20px;
+		padding-left: 20px;
+	}
+	.main-gallery [class*="col"]{
+		width: 33.3%;
+	}
+	.center-dec .text{
+		padding-right:20px;
+		padding-left: 20px; 
+	}
+	.iq_contact_info ul li{
+		padding-right:40px; 
+		padding-left:40px; 
+	}
+	.flickr-wrap .flickrbadges{
+		width: 64px;
+		height: 64px;
+	}
+}
+/*
+=================================================
+			FROM 0PX TO 979PX    0300 7785536
+=================================================
+*/ 
+@media (max-width: 991px) {
+	.iqoniq2-info ul li{
+		width: 33.3%;
+		text-align: center;
+	}
+	.iqoniq2-info ul li i{
+		float: none;
+		display: inline-block;
+	}
+	.iqoniq2-info ul li a,
+	.iqoniq2-info ul li span{
+		width: 100%;
+	}
+	.event_calender{
+		overflow: hidden;
+	}
+	.blog_detail_searh{
+		margin: 0 0 30px;
+	}
+	.blog-medium-caption h5{
+		font-size: 22px;
+	}
+	.iner_banner{
+		padding: 80px 0 97px;
+	}
+	.list_setting .iq-input{
+		width: 140px;
+	}
+	.navigation ul li a{
+		padding-right:9px;
+		padding-left: 9px; 
+	}
+	.navigation .children{
+		min-width: 200px;
+	}
+	.iq_banner .slick-dots{
+		bottom: 30px;
+	}
+	.iq_search_courses{
+		margin: 0;
+	}
+	.iq_knowledge_des{
+		padding: 0;
+	}
+	.iq_knowledge_des .iq_heading_1 h4{
+		font-size: 30px;
+	}
+	.iq_search_courses .iq-input{
+		width: 50%;
+		padding: 0 15px;
+	}
+	.iq_search_courses .iq-input .select ul.options{
+		left:15px;
+		right: 15px;
+	}
+	.iq_search_courses .iq-input:last-of-type{
+		width: 100%;
+	}
+	.iq_search_courses form{
+		width: auto;
+		margin: 0 -15px;
+		float: none;
+	}
+	.iq_knowledge_des h5{
+		font-size: 16px;
+	}
+	.iq_contact_info ul li{
+		padding-right:5px; 
+		padding-left:5px; 
+	}
+	.about-us-section .iq_heading_1 h4{
+		font-size: 26px;
+	}
+	.progress-caption .iq_heading_1 h4{
+		font-size: 30px;
+	}
+	.progress-caption > p {
+	    max-height: 100px;
+	    overflow: hidden;
+	}
+	.video-wrap h1{
+		font-size: 45px;
+		line-height: normal;
+	}
+	.video-wrap a{
+		padding: 30px 0 0;
+	}
+}
+
+/*
+=================================================
+			FROM 768PX TO 979PX
+=================================================
+*/
+
+@media (min-width: 768px) and (max-width: 979px) {
+	
+  
+}
+/*
+=================================================
+			FROM 0PX TO 767PX
+=================================================
+*/
+@media (max-width: 767px) {
+	.dl-menuwrapper{
+		display: block;
+	}
+	.iq_search.pull-right{
+		float: left !important; 
+	}
+	.iqoniq2-leave-message{
+		text-align: center;
+	}
+	.iqoniq2-subcribe form input[type="submit"]{
+		min-width: inherit;
+		padding-right: 10px;
+		padding-left: 10px;
+	}
+	.map-custom #map-canvas{
+		height: 300px;
+	}
+	.iqoniq2-leave-message .iq_heading_1{
+		text-align: center;
+	}
+	.iqoniq2-leave-message .iq_heading_1 h4::before{
+		right: 0;
+	}
+	.iqoniq2-info ul li{
+		width: 100%;
+	}
+	.edu_upmg_area .iq_course_list_des ul li{
+		padding: 0 0 0 10px;
+		width: 33.3%;
+	}
+	.blog_quotes{
+		margin-right:0;
+		width: 100%; 
+	}
+	.blog-title{
+		font-size: 22px;
+	}
+	#search-box .modal-dialog{
+		width: auto;
+	}
+	.navigation{
+		display: none;
+	}
+	.iq_time_wrap{
+		display: none;
+	}
+	.iq-caption{
+		padding: 0 15px;
+	}
+	.iq-caption-title{
+		font-size: 20px;
+	}
+	.iq-caption-text{
+		font-size: 40px;
+		margin: 0 0 15px;
+	}
+	.iq-caption-contant{
+		display: none;
+	}
+	.iq_banner .slick-dots {
+	    bottom: 10px;
+	}
+	.iq_professional_services{
+		text-align: center;
+	}
+	.iq_professional_services span{
+		margin-left:auto; 
+		margin-right:auto; 
+	}
+	.iq_professional_services h5::before{
+		right: 0;
+		margin: 0 auto;
+	}
+	.iq_best_knowledge_bg,
+	.iq_best_knowledge_bg .iq_heading_1,
+	.we_professional_bg .iq_heading_1{
+		text-align: center;
+	}
+	.iq_best_knowledge_bg .iq_heading_1.text-left h4::before,
+	.we_professional_bg .iq_heading_1.text-left h4::before{
+		right: 0;
+	}
+	.iq_best_knowledge_bg{
+		background-image: none;
+	}
+	.iq_gallery_menu ul li{
+		margin-left:5px; 
+	}
+	.iq_gallery_menu ul li a{
+		font-size: 12px;
+		padding-left: 5px;
+		padding-right: 5px;
+	}
+	.main-gallery [class*="col"]{
+		width: 49.9%;
+	}
+	.iq_contact_info ul li{
+		width: 100%;
+	}
+	.iq_contact_info ul li::before {
+	    height: 1px;
+	    right: 0;
+	    top: auto;
+	    width: 100%;
+	    bottom: 0;
+	    left: 0;
+	}
+	.iq_uni_title{
+		padding: 0;
+	}
+	.progress-caption,
+	.progress-caption .iq_heading_1,
+	.about-us-section .iq_heading_1,
+	.about-us-section .text{
+		text-align: center;
+	}
+	.about-us-section .text{
+		margin: 0 0 30px;
+	}
+	.progress-caption .iq_heading_1.text-left h4::before,
+	.about-us-section .iq_heading_1.text-left h4::before{
+		right: 0;
+	}
+	.video-wrap h1 {
+	    font-size: 35px;
+	    line-height: normal;
+		margin: 0 0 10px;
+	}
+	.video-wrap h5{
+		font-size: 18px;
+	}
+	.video-wrap a {
+	    padding: 20px 0 0;
+	}
+}
+/*
+=================================================
+			FROM 0PX TO 0PX
+=================================================
+*/
+@media (min-width: 360px) and (max-width: 640px) {
+	
+  
+}
+/*
+=================================================
+			FROM 0PX TO 0PX
+=================================================
+*/
+@media (max-width: 480px) {
+	.fc button{
+		padding: 0;
+	}
+	.fc-basic-view .fc-body .fc-row {
+	    min-height: 30px;
+	}
+	.edu_upmg_area .iq_course_list_des ul li{
+		width: auto;
+	}
+	.comment-thumb figure{
+		width: 70px;
+		height: 70px;
+	}
+	.blog_commenting_area li ul{
+		padding: 0;
+	}
+	.comment-reply{
+		position: static;
+		margin: 10px 0 0;
+	}
+	.comment-thumb{
+		background-color: transparent;
+	}
+	.tags_wrap .iq_footer_social,
+	.iq-tags{
+		width: 100%;
+		text-align: center;
+	}
+	.iq-tags{
+		margin: 0 0 10px;
+	}
+	.tags_wrap .iq_footer_social li,
+	.iq-tags li{
+		float: none;
+		display: inline-block;
+	}
+	.blog-medium-caption h5 {
+	    font-size: 18px;
+	}
+	.list_setting .iq-input{
+		width: 100%;
+	}
+	.iqoniq-tabs{
+		float: none;
+		margin: 0 -1.5%;
+		text-align: center;
+	}
+	.iqoniq-tabs li{
+		width: 47%;
+		margin: 0 1.5% 5px !important;
+	}
+	.main-gallery [class*="col"]{
+		width: 100%;
+	}
+	.iq_header_1 .iq_ui_element{
+		padding: 0 0 0 150px;
+	}
+	.iq_top_contact a:last-child{
+		display: none;
+	}
+	.iq-caption-title{
+		display: none;
+	}
+	.iq-caption-text{
+		font-size: 30px;
+	}
+	.iq_search_courses .iq-input{
+		width: 100%;
+	}
+	.iq_heading_1 h4{
+		font-size: 24px;
+	}
+	.iq_course_list_des ul li{
+		padding-left: 16px;
+	}
+	.iq_gallery_menu ul li{
+		margin: 0 3px 6px;
+	}
+	.center-dec .iq_link_1{
+		min-width:inherit;
+		padding-right: 20px;
+		padding-left: 20px;
+	}
+	.testimonial{
+		padding-right: 10px;
+		padding-left: 10px;
+	}
+	.video-wrap h1{
+		font-size: 23px;
+	}
+	.iner_banner{
+		padding: 50px 0 57px;
+	}
+	.iner_banner h5{
+		font-size: 40px;
+	}
+	.iq_footer_social li{
+		margin-right: 0;
+	}
+	.course_comments > li{
+		margin: 0 10px 0 0;
+	}
+	.popular_thumb h6 a{
+		font-size: 16px;
+	}
+}

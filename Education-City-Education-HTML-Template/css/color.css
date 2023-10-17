@@ -1,0 +1,229 @@
+/*
+	  ============================================================
+		   Font Color
+	  ============================================================
+*/
+.price strong,
+.testimonial h5 a,
+.iq_heading_1 span,
+.footer_strip h5 a,
+.course-info > span,
+.comment-reply:hover,
+.iq_time_wrap a:hover, 
+.blog-medium:hover h5 a,
+.iq_top_contact a:hover,
+.categries-list a:hover,
+.popular_thumb:hover h6 a,
+.course_comments li a:hover,
+.iqoniq2-info ul li:hover i,
+.iqoniq2-info ul li:hover a,
+.blog_detail_navi li a:hover,
+.center-dec:hover .text h5 a,
+.iq_footer_social li a:hover,
+.blog-list:hover .blog-title a,
+.iq_course_list_des:hover h5 a,
+.iq_teacher_style_1:hover h4 a,
+.iq_gallery_menu ul li:hover a,
+.iq_gallery_menu ul li a.active,
+.iq_professional_services:hover h5 a,
+.tags_wrap .iq_footer_social a:hover,
+.iq_footer_newsletter h6, .widget h5 span,
+.coureses_Popular_thumb:hover .popular_capstion > h5 a
+{
+
+	color: #e79800;
+
+}
+
+
+
+/*
+	  ============================================================
+		   Background Color
+	  ============================================================
+*/
+
+.iq_link_1,
+.fc-content,
+.blog1_link,
+.flickrbadges,
+.tag-link:hover,
+.overlay1:before,
+.iq_contact_info,
+.o_teacher_social a,
+.iq-tags li a:hover,
+.instractor_heading,
+.course-rating-head,
+.iqoniq-tabs a:hover,
+.dl-menuwrapper button,
+.fc-toolbar .fc-button,
+.iqoniq-tabs .active a,
+.dl-menuwrapper .dl-menu,
+.fc-unthemed td.fc-today,
+.widget_archive li:hover,
+.center-dec .text p:before,
+.navigation ul li a:before,
+.iq_tab_menu ul li:hover a,
+.slider-progress .progress,
+.iq_tab_menu ul li.active a,
+.event_pg_blog .fig_caption,
+.select ul.options li:hover,
+.course-progress .progress-bar,
+.iq_search.pull-right > button,
+.fc-toolbar button.fc-today-button,
+.our_teacher_page figure > a::before,
+.popular_thumb .overflow-text > span,
+.iq_upcomming_event:hover figure:before,
+.slick-dots li.slick-active button,
+.iqoniq-pagination .page-numbers:hover,
+.course-lesson-list li:hover,
+.iqoniq-pagination .page-numbers.current,
+.iq-progress .tooltip > .tooltip-inner, .iq-progress .progress-bar,
+.iq_footer_newsletter .iq-input-icon
+{
+	background-color:#e79800;
+}
+::-webkit-scrollbar-thumb
+{
+	background-color:#e79800;
+}
+
+/*
+	  ============================================================
+		   Border Color
+	  ============================================================
+*/
+.iq-input select:focus,
+.widget-title span,
+.iq-tags li a:hover,
+.testimonial figure,
+.iq-selectric:focus,
+.comment-reply:hover,
+.iq_course_list figure,
+.iq-input textarea:focus,
+.fc-unthemed td.fc-today,
+.blog_detail_page figure,
+.iq_tab_menu ul li:hover a,
+.iqoniq2-info ul li:hover i,
+.iq_tab_menu ul li.active a,
+.iq_footer_social li a:hover,
+.iq_gallery_menu ul li:hover a,
+.iq_gallery_menu ul li a.active,
+.iq-input input[type="text"]:focus,
+.iq-input input[type="email"]:focus,
+.tags_wrap .iq_footer_social a:hover,
+.feedback-wrap .slick-dots li button,
+.courses-slider .slick-dots li button,
+.related-slider .slick-dots li button,
+.iqoniq-pagination .page-numbers:hover,
+.iqoniq-pagination .page-numbers.current,
+.testimonial-slider .slick-dots li button,
+.iq-progress .popOver + .tooltip > .tooltip-arrow,
+.iq_search_courses
+{
+	border-color:#e79800;	
+}
+/*
+	  ============================================================
+		   Transaction Effect
+	  ============================================================
+*/
+select,
+input,
+.tag-link,
+input.tag-link,
+.iq-tags li a,
+.flickrbadges,
+.iqoniq-tabs a,
+.text-footer a,
+.comment-reply,
+.link-wrapper a,
+.iq_course_icon,
+.overlay1:before,
+.categries-list a,
+.iq_upcomming_des,
+.flickrbadges img,
+.widget_archive li,
+.o_teacher_social a,
+.brnd-slider .thumb,
+.navigation ul li a,
+.iq_teacher_style_1,
+.iq_upcomming_des p,
+.iq_upcomming_des p,
+.popular_thumb h6 a,
+.widget_archive li a,
+.iq_tab_menu ul li a,
+.iqoniq2-info ul li i,
+.iqoniq2-info ul li a,
+.course_comments li a,
+.select ul.options li,
+.iq_upcomming_des span,
+.iq_footer_social li a,
+.course-lesson-list li,
+.blog_detail_navi li a,
+.Popular_capstion_thumb,
+.iq_contact_info ul li i,
+.course-lesson-list li a,
+.iq_gallery_menu ul li a,
+.popular_capstion > h5 a,
+.navigation ul li a:before,
+.our_teacher_page figure > a,
+h1 a,h2 a,h3 a,h4 a,h5 a,h6 a,
+.iq_contact_info ul li i:after,
+.iqoniq-pagination .page-numbers,
+.iq_upcomming_event figure:before,
+.iq_time_wrap a, .iq_top_contact a,
+.our_teacher_page figure > a::before,
+.iq_banner .slick-dots li.slick-active button
+{
+	transition:all 0.3s ease-in-out;
+	-webkit-transition:all 0.3s ease-in-out;
+	-moz-transition:all 0.3s ease-in-out;
+	-o-transition:all 0.3s ease-in-out;
+	-moz-transition:all 0.3s ease-in-out;	
+}
+
+/*
+	  ============================================================
+		   Box Shadow Effect
+	  ============================================================
+*/
+.iq_header_1 .iq_search form input[type="search"]:focus,
+.input-3 input[type="text"]:focus,
+.iq_footer_newsletter form input[type="email"]:focus,
+.iq_courses_field input[type="text"]:focus,
+.iq_courses_field input[type="email"]:focus,
+.iq_courses_field .selectric-open{
+	box-shadow:0 5px 15px 0 rgba(0, 0, 0, 0.2);
+}
+/*
+	  ============================================================
+		  Content Selection
+	  ============================================================
+*/
+::selection {
+    background: #e37d39;
+    color:#ffffff;
+}
+::-webkit-selection {
+    background: #e37d39;
+    color: #ffffff;
+}
+::-moz-selection {
+    background: #e37d39;
+    color: #ffffff;
+}
+
+
+
+
+
+.text-footer a:hover{
+	color: #fff;
+	box-shadow: 20px 20px 0 0 #000 inset;
+}
+
+.link-wrapper > a:hover{
+	color: #fff;
+	box-shadow: 35px 35px 0px 0 #000 inset;
+}

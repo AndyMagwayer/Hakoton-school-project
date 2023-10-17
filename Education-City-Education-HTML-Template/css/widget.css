@@ -1,0 +1,474 @@
+.widget{
+	margin: 0 0 24px;
+}
+.widget{
+	float:left;
+	width:100%;	
+}
+.widget-title{
+	float: left;
+	width: 100%;
+	position:relative;
+	margin:0px 0px 30px;
+	text-transform:uppercase;
+}
+.widget-title span{
+	float: left;
+	margin: 0 5px 0 0;
+	padding:0px 0px 10px;
+	border-bottom:2px solid;
+}
+.widget-title:before{
+	left:0px;
+	content:"";
+	bottom:0px;
+	width:25px;
+	height:2px;	
+	position:absolute;
+}
+.iq_footer_bg .widget-title{
+	color: #fff;
+}
+
+
+.widget_time,
+.widget_archive{
+	margin: 0 0 9px;
+}
+.course-description{
+	margin: 0 0 15px;
+}
+/*
+	  ==============================================================
+		   CONATCT INFORMATION WRAP CSS START
+	  ==============================================================
+*/
+.iq_contact_info{
+	float:left;
+	width:100%;
+	position:relative;	
+}
+.iq_contact_info ul{
+	float:left;
+	width:100%;	
+}
+.iq_contact_info ul li{
+	float:left;
+	position:relative;
+	padding:25px 60px;
+	width:33.3%;
+	z-index:100;	
+}
+.iq_contact_info ul li:before{
+	top: 0;
+	content:"";
+	right: 0px;
+	width: 1px;
+	height: 100%;
+	position: absolute;	
+	background-color: rgba(255, 255, 255, 0.118);
+}
+.iq_contact_info ul li:last-child:before{
+	display: none;
+}
+.iq_contact_info ul li i{
+	float:left;
+	width:55px;
+	height:71px;
+	line-height:70px;
+	color:#fff;
+	text-align:center;
+	margin-right:15px;
+	font-size:28px;
+	position:relative;	
+	background-color: rgba(255,255,255,0.117);
+}
+.iq_contact_info ul li i:after{
+	content:"";
+	position:absolute;
+	bottom:0px;
+	left:0px;
+	width:0px;
+	height:3px;
+	background-color:#fff;	
+}
+.iq_info_wrap{
+	float:none;
+	padding:0px 0px 0px 70px;	
+}
+.iq_info_wrap h5{
+	color:#fff;
+	font-size:18px;
+}
+.iq_info_wrap a,
+.iq_info_wrap p,
+.iq_info_wrap span{
+	color:#fff;
+	margin:0px 0px;
+	display: block;
+	font-family: 'Lato', sans-serif;
+}
+.iq_info_wrap a,
+.iq_info_wrap span{
+	margin: 5px 0 5px;
+}
+.iq_info_wrap p span{
+	margin:2px 0 0;
+}
+.iq_info_wrap a:last-child,
+.iq_info_wrap span:last-child{
+	margin-bottom: 0;
+}
+/*HOVER*/
+.iq_contact_info ul li:hover i:after{
+	width:100%;	
+}
+/*
+	  ==============================================================
+		   CONATCT INFORMATION WRAP CSS END
+	  ==============================================================
+*/
+
+/*
+	  ==============================================================
+		   FOOTER WIDGETS HEADING WRAP CSS START
+	  ==============================================================
+*/
+
+
+
+
+.iq_footer_newsletter p{
+	float: left;
+	color:#999;
+	margin:-4px 0 28px 0;
+}
+.iq_footer_newsletter form{
+	margin-bottom:26px;
+}
+.iq_footer_newsletter .iq-input-icon{
+	width: 65px;
+}
+.iq_footer_newsletter .iq-input-icon:before{
+	content: "\f1d8";
+	color: #fff;
+}
+.iq_footer_newsletter .iq-input input[type="text"]{
+	padding-right:65px; 
+	border-color: #333;
+}
+.iq_footer_newsletter .iq-input input[type="text"]::-webkit-input-placeholder{
+	color:#666;
+}
+.iq_footer_newsletter .iq-input input[type="text"]::-moz-placeholder{
+	color:#666;
+}
+.iq_footer_social {
+	float:left;
+	width:100%;
+}
+.iq_footer_social li{
+	display:inline-block;
+	margin-right:7px;
+}
+.iq_footer_social li a{
+	width:32px;
+	height:32px;
+	color:#f9f9f9;
+	display:block;
+	font-size:14px;
+	line-height:30px;
+	text-align:center;
+	border-radius:2px;
+	border:2px solid #545454;
+}
+.iq_footer_social li:last-child{
+	margin-right:0px;
+}
+/*
+	  ==============================================================
+		   FOOTER WIDGETS HEADING WRAP CSS START
+	  ==============================================================
+*/
+
+
+/*
+	  ==============================================================
+		   FOOTER WIDGETS WRAP CSS START
+	  ==============================================================
+*/
+.iq_footer_bg{
+	float:left;
+	width:100%;
+	position:relative;
+	background-color:#15191c;	
+}
+/*Widget 1 Style*/
+.iq_uni_title{
+	float:left;
+	width:100%;
+	position:relative;
+	padding:0px 60px 0px 0px;	
+}
+.iq_uni_title h4{
+	color:#fff;
+	text-transform:capitalize;
+	margin:0px 0px 10px;
+	font-size: 26px;	
+}
+.iq_uni_title h4 > span{
+	display:block;	
+}
+.iq_uni_title p {
+    color: #999;
+}
+
+.footer_strip{
+	float:left;
+	width:100%;
+	text-align:center;
+	background:#1a1c1e;
+	padding:21px 0 21px 0; 
+}
+.footer_strip h5{
+	color:#fff;
+	font-size:14px;
+	text-transform:capitalize;
+	font-weight: 300;
+}
+.footer_strip h5 a{
+	font-weight: bold;
+	text-transform: uppercase;
+}
+/*
+	  ==============================================================
+		   FOOTER WIDGETS WRAP CSS END
+	  ==============================================================
+*/
+/*side-bar*/
+.iq-input input[type="text"]{
+	border-color: #d1d1d1;
+}
+/*Istractor Widget Start*/
+.course-lesson-list li a [class*="icon-"]{
+	margin: 0 5px 0 0;
+}
+.instractor_heading{
+	float:left;
+	width:100%;
+	position:relative;
+	margin-bottom:23px;
+	padding:13px 20px 15px;
+}
+.instractor_heading:before{
+	position:absolute;
+	content: "\f217";
+    font-family: FontAwesome;
+    font-size: 18px;
+    font-weight: normal;
+    position: absolute;
+    right: 20px;
+	top:50%;
+	margin-top:-11px;
+    text-align: center;
+	color:#fff;
+}
+.instractor_heading h5 a{
+	color:#fff;
+	font-size:18px;
+	display:inline-block;
+	text-transform:uppercase;
+}
+.coures_instractor_area > h5 a{
+	font-size:18px;
+	color:#333333;
+	text-transform:uppercase;
+	margin-bottom:25px;
+	display:inline-block;
+}
+.coures_instractor_thumb{
+	float:left;
+	width:100%;
+}
+.coures_instractor_thumb figure{
+	float:left;
+	width:auto;
+	padding:3px;
+	border:1px solid #c5c5c5;
+}
+.coures_instractor_thumb figure img{
+	float:left;
+}
+.thumb_capstion{
+	float:left;
+	padding:16px 0px 0px 14px;
+}
+.course-description .widget-title{
+	margin: 0 0 23px;
+}
+.course-description p{
+	margin-bottom:11px;
+}
+/*Istractor Widget End*/
+/*Archive List Widget Start*/
+.widget_time .widget-title,
+.widget_archive .widget-title{
+	margin: 0 0 15px;
+}
+.course-lesson-list,
+.widget_time ul,
+.iq_uni_title ul,
+.widget_archive ul {
+    float: left;
+    list-style: outside none none;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+}
+.course-lesson-list li,
+.widget_time li,
+.iq_uni_title li,
+.widget_archive li {
+    margin: 0;
+    width: 100%;
+	float: left;
+    text-align: right;
+    position: relative;
+    line-height: normal;
+    padding: 11px 0 12px;
+    border-top: 1px dashed #3c3c3c;
+}
+.aside-bar .course-lesson-list li, 
+.aside-bar .widget_time li, 
+.aside-bar .iq_uni_title li, 
+.aside-bar .widget_archive li{
+	border-color: #ccc;
+}
+.course-lesson-list li:first-child,
+.widget_time li:first-child,
+.iq_uni_title li:first-child,
+.widget_archive li:first-child {
+    border: medium none;
+}
+.course-lesson-list li a,
+.widget_time li span,
+.iq_uni_title li span,
+.widget_archive li a {
+    float: left;
+    width: auto;
+    font-size: 14px;
+    text-align: left;
+    position: relative;
+    font-weight: normal;
+    line-height: normal;
+    text-transform: capitalize;
+    font-family: 'Lato', sans-serif;
+}
+.widget_time li *:first-child{
+	float: left;
+}
+.course-lesson-list li:hover{
+	padding-right:10px; 
+	padding-left:10px; 
+}
+.course-lesson-list li:hover,
+.course-lesson-list li:hover a{
+	color: #fff;
+}
+.widget_archive li:hover {
+    color: #fff;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+.widget_archive li:hover a{
+	color: #fff !important;
+}
+/*Archive List Widget End*/
+/*Popular Widget Start*/
+.popular_thumb{
+	float: left;
+	width: 100%;
+	margin: 0 0 30px;
+}
+.popular_thumb:last-child{
+	margin: 0;
+}
+.popular_thumb figure {
+	width:87px;
+	float:left;
+	height:80px;
+}
+.popular_thumb .overflow-text{
+	padding:0 0 0 15px;
+}
+.popular_thumb h6 a{
+	color:#333333;
+	font-size:18px;
+	margin-bottom:10px;
+	display:inline-block;
+	text-transform:capitalize;
+}
+.popular_thumb .rating-wrap{
+	margin: 0 0 2px;
+}
+.popular_thumb .rating_star li{
+	padding: 0;
+}
+.popular_thumb p{
+	margin:0;
+	float: left;
+	width: auto;
+	font-size:16px;
+}
+.popular_thumb .overflow-text > span {
+    color: #fff;
+    float: right;
+    font-size: 12px;
+    margin-left: 10px;
+    border-radius: 3px;
+    display: inline-block;
+    padding: 1px 10px 1px;
+}
+/*Popular Widget End*/
+/*Flickr Widget Start*/
+.flickr-wrap {
+    display: inline-block;
+    margin: 0 -5px;
+}
+.flickr-wrap .flickrbadges {
+    float: left;
+    width: 80px;
+    height: 80px;
+    margin: 0 5px 10px;
+}
+.flickrbadges:hover img {
+    opacity: 0.5;
+}
+/*Flickr Widget End*/
+
+
+
+
+
+/*Footer Widget Color Start*/
+.iq_footer_bg .widget_archive li,
+.iq_footer_bg .widget_archive li a{
+	color: #999;
+}
+
+
+
+.tag{
+	margin: 0 0 0 -8px;
+}
+.tag-link{
+	float: left;
+	width: auto;
+	padding: 5px 10px;
+	margin: 0 0 8px 8px;
+	background-color: #f0f0f0;
+	text-transform: capitalize;
+}
+.tag-link:hover{
+	color: #fff;
+}
